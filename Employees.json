@@ -1,0 +1,32 @@
+{
+  "employees": [
+    {
+      "employee_id": "8888",
+      "name": "davis",
+      "phone": "0585200018",
+      "email": "davislyu@gmail.com",
+      "role": "manager"
+    },
+    {
+      "employee_id": "5555",
+      "name": "stav",
+      "phone": "0545773320",
+      "email": "stavrivlin@gmail.com",
+      "role": "manager"
+    },
+    {
+      "employee_id": "7676",
+      "name": "sharon",
+      "phone": "0545773301",
+      "email": "sharon@gmail.com",
+      "role": "Manager"
+    },
+    {
+      "employee_id": 5574,
+      "name": "ston",
+      "phone": "0545566769",
+      "email": "ston@gmail.com",
+      "role": "meneger"
+    }
+  ]
+}
