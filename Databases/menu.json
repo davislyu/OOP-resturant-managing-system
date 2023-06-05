@@ -1,0 +1,83 @@
+{
+  "menu_items": [
+    {
+      "name": "Simple pizza",
+      "price": 45.99,
+      "ingredients": [
+        {
+          "name": "cheese",
+          "amount": 150.0,
+          "unit": "g"
+        },
+        {
+          "name": "tomato",
+          "amount": 7.0,
+          "unit": "unit"
+        },
+        {
+          "name": "olive oil",
+          "amount": 15.0,
+          "unit": "ml"
+        }
+      ]
+    },
+    {
+      "name": "Olive pizza",
+      "price": 54.99,
+      "ingredients": [
+        {
+          "name": "cheese",
+          "amount": 150.0,
+          "unit": "g"
+        },
+        {
+          "name": "tomato",
+          "amount": 3.0,
+          "unit": "unit"
+        },
+        {
+          "name": "olive oil",
+          "amount": 15.0,
+          "unit": "ml"
+        },
+        {
+          "name": "olive",
+          "amount": 10.0,
+          "unit": "unit"
+        }
+      ]
+    },
+    {
+      "name": "Tomato pizza",
+      "price": 40.0,
+      "ingredients": [
+        {
+          "name": "cheese",
+          "amount": 150.0,
+          "unit": "g"
+        },
+        {
+          "name": "tomato",
+          "amount": 3.0,
+          "unit": "unit"
+        }
+      ]
+    },
+    {
+      "name": "cake",
+      "price": 10.0,
+      "ingredients": [
+        {
+          "name": "flour ",
+          "amount": 10.0,
+          "unit": "g"
+        }
+      ]
+    },
+    {
+      "name": "pushi",
+      "price": 18.0,
+      "ingredients": []
+    }
+  ]
+}
